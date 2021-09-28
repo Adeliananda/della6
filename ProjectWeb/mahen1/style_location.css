@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+}
+body{
+	background-image: url("kontak.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.navigasi{
+	margin-top: 0px;
+}
+.navigasi ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.navigasi ul li{
+	display: inline-block;
+}
+.navigasi ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6%;
+}
+.navigasi ul li a:hover{
+	background-color: white;
+	color: black;
+}
+.judul{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+}
+.judul h1{
+	font-size: 50px;
+	color: white;
+}
+.content{
+	clear: both;
+	margin: 20px;
+}
+.content p{
+	font-size: 30px;
+	color: white;
+}

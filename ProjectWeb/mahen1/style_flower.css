@@ -1,0 +1,349 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+}
+body{
+	background-image: url("kontak.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.navigasi{
+	margin-top: 0px;
+}
+.navigasi ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.navigasi ul li{
+	display: inline-block;
+}
+.navigasi ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6%;
+}
+.navigasi ul li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.judul{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+}
+.judul h1{
+	font-size: 50px;
+	color: white;
+}
+
+.content1{
+	clear: both;
+	float: left;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(kontak.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 20px;
+}
+
+.content1 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content1 .isi{
+	margin-left: 30px;
+	color: black;
+}
+
+.content1 .isi ul{
+	font-size: 15px;
+}
+
+.content1 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content2{
+	float: right;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content2 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content2 .isi{
+	margin-left: 30px;
+}
+
+.content2 .isi ul{
+	font-size: 15px;
+}
+
+.content2 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content3{
+	clear: both;
+	float: left;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content3 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content3 .isi{
+	margin-left: 30px;
+}
+
+.content3 .isi ul{
+	font-size: 15px;
+}
+
+.content3 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content4{
+	float: right;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content4 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content4 .isi{
+	margin-left: 30px;
+}
+
+.content4 .isi ul{
+	font-size: 15px;
+}
+
+.content4 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content5{
+	clear: both;
+	float: left;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content5 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content5 .isi{
+	margin-left: 30px;
+}
+
+.content5 .isi ul{
+	font-size: 15px;
+}
+
+.content5 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content6{
+	float: right;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content6 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content6 .isi{
+	margin-left: 30px;
+}
+
+.content6 .isi ul{
+	font-size: 15px;
+}
+
+.content6 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+.content7{
+	clear: both;
+	float: left;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content7 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content7 .isi{
+	margin-left: 30px;
+}
+
+.content7 .isi ul{
+	font-size: 15px;
+}
+
+.content7 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content8{
+	float: right;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content8 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content8 .isi{
+	margin-left: 30px;
+}
+
+.content8 .isi ul{
+	font-size: 15px;
+}
+
+.content8 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+.content9{
+	clear: both;
+	float: left;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content9 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content9 .isi{
+	margin-left: 30px;
+}
+
+.content9 .isi ul{
+	font-size: 15px;
+}
+
+.content9 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}
+
+.content10{
+	float: right;
+	width: 500px;
+	height: 460px;
+	border: 1px solid black;
+	background-image: url(bgkolommenu.jpg);
+	margin: 20px;
+}
+
+.content10 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.content10 .isi{
+	margin-left: 30px;
+}
+
+.content10 .isi ul{
+	font-size: 15px;
+}
+
+.content10 .isi h2{
+	margin-top: 10px;
+	width: 150px;
+	border: 1px solid black;
+	padding-left: 10px;
+}	

@@ -1,0 +1,99 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+}
+body{
+	background-image: url("kontak.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+.navigasi{
+	margin-top: 0px;
+}
+.navigasi ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.navigasi ul li{
+	display: inline-block;
+}
+.navigasi ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6%;
+}
+.navigasi ul li a:hover{
+	background-color: white;
+	color: black;
+}
+.judul{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+}
+.judul h1{
+	font-size: 50px;
+	color: white;
+}
+.content1{
+	clear: both;
+	float: left;
+	width: 280px;
+	height: 280px;
+	margin: 20px;
+}
+.content1 img{
+	width: 280px;
+	height: 280px;
+}
+.content1 p{
+	font-size: 30px;
+	color: white;
+}
+.content2{
+	float: left;
+	width: 280px;
+	height: 280px;
+	margin: 20px;
+}
+.content2 img{
+	width: 280px;
+	height: 280px;
+}
+.content2 p{
+	font-size: 30px;
+	color: white;
+}
+.content3{
+	float: left;
+	width: 280px;
+	height: 280px;
+	margin: 20px;
+}
+.content3 img{
+	width: 280px;
+	height: 280px;
+}
+.content3 p{
+	font-size: 30px;
+	color: white;
+}
+.content4{
+	float: left;
+	width: 280px;
+	height: 280px;
+	margin: 20px;
+}
+.content4 img{
+	width: 280px;
+	height: 280px;
+}
+.content4 p{
+	font-size: 30px;
+	color: white;
+}
